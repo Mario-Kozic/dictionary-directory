@@ -28,8 +28,4 @@ then:
 # module we are gonna work with  
   difflib ---> module provides classes and functions for comparing sequences. It can be used for example, for comparing files, and can produce information about file differences in various formats, including HTML and context and unified diffs. For comparing directories and files, see also, the filecmp module.
 
-<<<<<<< HEAD
   get_close_matches  ---> which will return a list of the best “good enough” matches. word is a sequence for which close matches are desired (typically a string), and possibilities is a list of sequences against which to match word (typically a list of strings) 
-=======
-  get_close_matches  ---> which will return a list of the best “good enough” matches. word is a sequence for which close matches are desired (typically a string), and possibilities is a list of sequences against which to match word (typically a list of strings) 
->>>>>>> 07020ab10cde0799c4da82637797a608c9a5e42f
